@@ -11,7 +11,11 @@
 
 * System Philosophy
 
-- TODO(pkumusic@)
+- Optimize on finding major fits, 3NT when having minor fits, then 5 of the minor or possible minor slam.
+- Usable in both IMP and MP. Not specifically optimized for either, so judgement required when playing IMP vs MP. For IMP, go for 6 / (6 + 10) = *37.5% V games*, and 5 / (5+6) = *45.5% NV games*. For MP, usually 50% is needed, and always play for overtricks!
+For either IMP/MP or V/NV, 50% is needed for small slam and 75% for grand slam.
+- Suitable for short-term and long time partnership. Most of the bids are American standard 2/1, and adopted expert standard credited to Gavin Wolpert (wolpertbridge.com). 
+I would like to add transfer structures for competitive bidding but it is outside of the scope of this system. 
 
 * Uncontested Bidding
 

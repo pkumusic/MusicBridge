@@ -33,7 +33,7 @@ files everytime you save changes to a bml file in this directory. Open a command
 
 ```shell
 
-cd bridge-bidding-systems
+cd 2_over_1
 watchexec --exts bml,css doit
 ```
 
