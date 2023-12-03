@@ -33,8 +33,8 @@ According to the above principles, we list the following bidding table.
     2H   = 6+S, 6+ HCP
     2S   = to 2NT or 3C, C limit+
     2NT  = DO NOT USE. 1NT is NT invite. We can stay low now!
-    3C   = natural weak clubs 0-6
-    3D   = natural weak dimonds 0-6
+    3C   = 0-6 weak C raise
+    3D   = natural weak
     3H   = natural weak 
     3S   = natural weak
 
@@ -48,7 +48,7 @@ According to the above principles, we list the following bidding table.
     2H   = 6+S, 6+ HCP
     2S   = to 2NT or 3C, C limit+
     2NT  = natural NT invite
-    3C   = natural weak C 
+    3C   = 0-6 weak C raise
     3D   = splinter (on oppo's suit), C support
     3H   = natural weak H
     3S   = natural weak S
@@ -62,7 +62,7 @@ According to the above principles, we list the following bidding table.
     2H   = 5+S, 6+ HCP
     2S   = to 2NT or 3C, C limit+
     2NT  = natural NT invite
-    3C   = natural weak C 
+    3C   = 0-6 weak C raise
     3D   = natural weak D
     3H   = splinter (on oppo's suit), C support
     3S   = natural weak S
@@ -75,7 +75,7 @@ According to the above principles, we list the following bidding table.
     2H   = 6+D (This is called 2D/2H switch), 6+ HCP
     2S   = C limit raise+
     2NT  = natural NT invite
-    3C   = natural weak C
+    3C   = 0-6 weak C raise
     3D   = natural weak D
     3H   = natural weak H
     3S   = splinter (on oppo's suit), C support
@@ -118,7 +118,7 @@ According to the above principles, we list the following bidding table.
     2S   = 6+C, 6+ HCP
     2NT  = Natural NT invite
     3C   = Natural weak C
-    3D   = Natural weak D
+    3D   = 0-6 weak D raise
     3H   = Natural weak H
     3S   = splinter (on oppo's suit), D support
 
@@ -129,7 +129,7 @@ According to the above principles, we list the following bidding table.
     2S   = D raise, ask for 2NT bid with stopper
     2NT  = Natural NT invite
     3C   = Natural cuebid, Forcing
-    3D   = Natural weak D
+    3D   = 0-6 weak D raise
     3H   = Natural weak H
     3S   = Natural weak S
     4C   = splinter (on oppo's suit), D support
