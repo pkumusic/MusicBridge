@@ -16,8 +16,11 @@
 For either IMP/MP or V/NV, 50% is needed for small slam and 75% for grand slam.
 - Suitable for short-term and long time partnership. Most of the bids are American standard 2/1, and adopted expert standard credited to Gavin Wolpert (wolpertbridge.com). 
 I would like to add transfer structures for competitive bidding but it is outside of the scope of this system. 
+- Aggresive pre-empt when Fav (i.e. NV vs V) in 1st and 3rd seat. e.g. 2S in Fav 1st/3rd seat can be very weak, partner needs to consider it when bidding on.
 
 * Uncontested Bidding
+
+#INCLUDE 1c_opening.bml
 
 - TODO(pkumusic@)
 
