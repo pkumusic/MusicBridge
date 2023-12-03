@@ -154,10 +154,18 @@ According to the above principles, we list the following bidding table.
     3H   =  Weak H raise, 4H
     3S   =  Splinter on S, 4H support
 
-
-
-
-
+1H-(1S)
+    X    = To 1NT or 2C (opener always bid 1NT)
+    1NT  = Natural 
+    2C   = 5+D
+    2D   = constructive 7-9 3H raise
+    2H   = weak 7- 3H raise
+    2S   = Relay to 3C, weak 3C or 3D
+    2NT  = natural NT invite
+    3C   = limit+ raise
+    3D   = 4H mixed raise
+    3H   = Weak H
+    3S   = Splinter on S, 4H support
 
 
 
