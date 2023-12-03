@@ -1,0 +1,39 @@
+#+TITLE: Transfers after opponent overcall
+#+AUTHOR: Music Li
+
+* Transfers after RHO Overcalls 
+
+** Principles 
+
+- In order to solve the issue that new suit in 2lv after overcall is forcing, which shut down
+the weak hand bid (e.g. 6-9 points with 6 card or 5 good card suit). It also comes with the great benefit
+of right siding the declarer and make the overcaller the opening leader.
+- Transfers only on when partner opens and RHO doubles or overcalls 1 or 2 levels naturally.
+- 3 level calls are natural. e.g., weak jump shifts and natural 3 level calls are still there.
+- Transfer to oppo's suit is GF (just a way of GF when no better bids, not the only way).  
+- Double's meaning priority: 
+
+1. transfer to a major when overcall D or H. 
+2. show the other major when overcall S 
+3. natrual negative double when it cannot be the above 2 meanings.
+
+- 1S is transfering to NT or C. Opener always bid 1NT (not considering stopper since low level).
+- 2S is transfering to NT or C. Opener bids 2NT with stopper, and 3C without stopper.
+
+According to the above principles, we list the following bidding table.
+
+1C-(DBL)  
+    Rdbl = 10+. Usually no 4 card major. Every DBL are penalty afterwards.
+    1D   = 4+H, 6+ hcp
+    1H   = 4+S, 6+ hcp
+    1S   = Transfer to 1NT or 2C, no major, 6-10 hcp balanced.
+    1NT  = 10-11, invitational NT
+    2C   = 5+D
+    2D   = 6+H
+    2H   = 6+S
+    2S   = to 2NT or 3C, C limit raise
+    2NT  = DO NOT USE. 1NT is NT invite. We can stay low now!
+    3C   = natural weak clubs 0-6
+    3D   = natural weak dimonds 0-6
+    3H   = natural weak 
+    3S   = natural weak

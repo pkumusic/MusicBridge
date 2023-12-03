@@ -26,4 +26,7 @@ I would like to add transfer structures for competitive bidding but it is outsid
 
 * Competitive Bidding
 
-- TODO(pkumusic@)
+- TODO(pkumusic@): natural competitive bidding
+
+#INCLUDE transfers_after_oppo_overcall.bml
+
