@@ -26,7 +26,7 @@ According to the above principles, we list the following bidding table.
     Rdbl = 10+. Usually no 4 card major. Every DBL are penalty afterwards.
     1D   = 4+H, 6+ hcp
     1H   = 4+S, 6+ hcp
-    1S   = Transfer to 1NT or 2C, no major, 6-10 hcp balanced.
+    1S   = Transfer to 1NT or 2C, no major, 6-10 hcp.
     1NT  = 10-11, invitational NT
     2C   = 5+D
     2D   = 6+H
@@ -37,3 +37,18 @@ According to the above principles, we list the following bidding table.
     3D   = natural weak dimonds 0-6
     3H   = natural weak 
     3S   = natural weak
+
+1C-(1D)  
+    X    = 4+H
+    1H   = 4+S
+    1S   = No major, transfer to 1NT or 2C
+    1NT  = natural to play
+    2C   = To 2D, GF
+    2D   = 6+H
+    2H   = 6+S
+    2S   = to 2NT or 3C, C limit raise
+    2NT  = natural NT invite
+    3C   = natural weak C 
+    3D   = splinter (on oppo's suit), C support
+    3H   = natural weak H
+    3S   = natural weak S

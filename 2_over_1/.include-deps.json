@@ -1,0 +1,9 @@
+{
+    "bidding_system.bml": [
+        "1c_opening.bml",
+        "transfers_after_oppo_overcall.bml"
+    ],
+    "1c-opening.bml": [],
+    "1c_opening.bml": [],
+    "transfers_after_oppo_overcall.bml": []
+}
