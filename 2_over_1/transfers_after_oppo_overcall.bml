@@ -28,9 +28,9 @@ According to the above principles, we list the following bidding table.
     1H   = 4+S, 6+ hcp
     1S   = Transfer to 1NT or 2C, no major, 6-10 hcp.
     1NT  = 10-11, invitational NT
-    2C   = 5+D
-    2D   = 6+H
-    2H   = 6+S
+    2C   = 5+D, 6+ HCP
+    2D   = 6+H, 6+ HCP
+    2H   = 6+S, 6+ HCP
     2S   = to 2NT or 3C, C limit+
     2NT  = DO NOT USE. 1NT is NT invite. We can stay low now!
     3C   = natural weak clubs 0-6
@@ -39,13 +39,13 @@ According to the above principles, we list the following bidding table.
     3S   = natural weak
 
 1C-(1D)  
-    X    = 4+H
-    1H   = 4+S
+    X    = 4+H, 6+ HCP
+    1H   = 4+S, 6+ HCP
     1S   = No major, transfer to 1NT or 2C
     1NT  = natural to play
     2C   = To 2D, GF
-    2D   = 6+H
-    2H   = 6+S
+    2D   = 6+H, 6+ HCP
+    2H   = 6+S, 6+ HCP
     2S   = to 2NT or 3C, C limit+
     2NT  = natural NT invite
     3C   = natural weak C 
@@ -54,12 +54,12 @@ According to the above principles, we list the following bidding table.
     3S   = natural weak S
 
 1C-(1H)
-    X    = 4S
+    X    = 4+S
     1S   = No major, transfer to 1NT or 2C
     1NT  = natural to play
-    2C   = 5+D
+    2C   = 5+D, 6+ HCP
     2D   = To 2H, GF
-    2H   = 5+S
+    2H   = 5+S, 6+ HCP
     2S   = to 2NT or 3C, C limit+
     2NT  = natural NT invite
     3C   = natural weak C 
@@ -71,13 +71,73 @@ According to the above principles, we list the following bidding table.
     X    = natural negative double, 4+H
     1NT  = natural to play
     2C   = natural 6-10, C 
-    2D   = 5+H
-    2H   = 6+D (This is called 2D/2H switch)
+    2D   = 5+H, 6+ HCP
+    2H   = 6+D (This is called 2D/2H switch), 6+ HCP
     2S   = C limit raise+
     2NT  = natural NT invite
     3C   = natural weak C
     3D   = natural weak D
     3H   = natural weak H
     3S   = splinter (on oppo's suit), C support
+
+1D-(DBL)
+    Rdbl = 10+. Usually no 4 card major. Every DBL are penalty afterwards.
+    1H   = Natural 6+, 4+H
+    1S   = Natural 6+, 4+S
+    1NT  = Natural 6-10
+    2C   = 4+D support
+    2D   = 6+H, 6+ HCP
+    2H   = 6+S, 6+ HCP
+    2S   = 6+C, 6+ HCP
+    2NT  = Natural NT invite
+    3C   = Natural weak C
+    3D   = 0-6 weak D raise
+    3H   = natural weak 
+    3S   = natural weak
+
+1D-(1H)
+    X    = 4+S
+    1S   = Transfer to 1NT or 2C, no major, 6-10 hcp
+    1NT  = Natural (8-10) with H stopper
+    2C   = 4+D support
+    2D   = to 2H, GF
+    2H   = 6+S, 6+ HCP
+    2S   = 6+C, 6+ HCP  
+    2NT  = Natural NT invite
+    3C   = Natural weak C
+    3D   = 0-6 weak D raise
+    3H   = splinter (on oppo's suit), D support
+    3S   = natural weak
+
+1D-(1S)
+    X    = Natural, 4+H
+    1NT  = Natural
+    2C   = 4+D support, 6+ HCP
+    2D   = 6+H, 6+ HCP
+    2H   = To 2S, GF
+    2S   = 6+C, 6+ HCP
+    2NT  = Natural NT invite
+    3C   = Natural weak C
+    3D   = Natural weak D
+    3H   = Natural weak H
+    3S   = splinter (on oppo's suit), D support
+
+1D-(2C)
+    X    = natural negative
+    2D   = 5+H
+    2H   = 5+S
+    2S   = D raise, ask for 2NT bid with stopper
+    2NT  = Natural NT invite
+    3C   = Natural cuebid, Forcing
+    3D   = Natural weak D
+    3H   = Natural weak H
+    3S   = Natural weak S
+
+
+
+
+
+
+    
 
 
