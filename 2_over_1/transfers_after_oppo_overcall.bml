@@ -31,7 +31,7 @@ According to the above principles, we list the following bidding table.
     2C   = 5+D
     2D   = 6+H
     2H   = 6+S
-    2S   = to 2NT or 3C, C limit raise
+    2S   = to 2NT or 3C, C limit+
     2NT  = DO NOT USE. 1NT is NT invite. We can stay low now!
     3C   = natural weak clubs 0-6
     3D   = natural weak dimonds 0-6
@@ -46,9 +46,38 @@ According to the above principles, we list the following bidding table.
     2C   = To 2D, GF
     2D   = 6+H
     2H   = 6+S
-    2S   = to 2NT or 3C, C limit raise
+    2S   = to 2NT or 3C, C limit+
     2NT  = natural NT invite
     3C   = natural weak C 
     3D   = splinter (on oppo's suit), C support
     3H   = natural weak H
     3S   = natural weak S
+
+1C-(1H)
+    X    = 4S
+    1S   = No major, transfer to 1NT or 2C
+    1NT  = natural to play
+    2C   = 5+D
+    2D   = To 2H, GF
+    2H   = 5+S
+    2S   = to 2NT or 3C, C limit+
+    2NT  = natural NT invite
+    3C   = natural weak C 
+    3D   = natural weak D
+    3H   = splinter (on oppo's suit), C support
+    3S   = natural weak S
+
+1C-(1S)
+    X    = natural negative double, 4+H
+    1NT  = natural to play
+    2C   = natural 6-10, C 
+    2D   = 5+H
+    2H   = 6+D (This is called 2D/2H switch)
+    2S   = C limit raise+
+    2NT  = natural NT invite
+    3C   = natural weak C
+    3D   = natural weak D
+    3H   = natural weak H
+    3S   = splinter (on oppo's suit), C support
+
+
